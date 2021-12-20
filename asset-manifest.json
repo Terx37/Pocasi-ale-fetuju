@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workshop2021/static/css/main.f3f7a64e.css",
+    "main.js": "/workshop2021/static/js/main.ea9eaa7a.js",
+    "static/js/787.5e72fd68.chunk.js": "/workshop2021/static/js/787.5e72fd68.chunk.js",
+    "static/media/logo.svg": "/workshop2021/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/workshop2021/index.html",
+    "main.f3f7a64e.css.map": "/workshop2021/static/css/main.f3f7a64e.css.map",
+    "main.ea9eaa7a.js.map": "/workshop2021/static/js/main.ea9eaa7a.js.map",
+    "787.5e72fd68.chunk.js.map": "/workshop2021/static/js/787.5e72fd68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f7a64e.css",
+    "static/js/main.ea9eaa7a.js"
+  ]
+}
